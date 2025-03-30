@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Jekyll and the Agency theme gem
 gem "jekyll", "~> 4.0"
-gem "jekyll-agency", "~> 1.0.7"
+gem "jekyll-agency", "~> 1.0.9"
 
 # Additional dependencies (as mentioned in the error message)
 gem "csv", "3.3.3"

@@ -81,7 +81,7 @@ DEPENDENCIES
   csv (= 3.3.3)
   i18n (= 1.14.7)
   jekyll (~> 4.0)
-  jekyll-agency (~> 1.0.7)
+  jekyll-agency (~> 1.0.9)
   kramdown (= 2.5.1)
   public_suffix (= 6.0.1)
   rexml (= 3.4.1)
