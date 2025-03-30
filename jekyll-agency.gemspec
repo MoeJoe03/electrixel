@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name     = "jekyll-agency"
+  spec.name     = 
   spec.version  = "1.1.0"
   
   spec.authors  = ["Ravi Riley"]
