@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agency Jekyll Theme
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency?label=gem%20downloads)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue)](/LICENSE.txt)
@@ -186,3 +187,6 @@ The theme is available as open source under the terms of the [MIT License](https
 [demo-page]: https://raviriley.github.io/agency-jekyll-theme-starter/
 [template]: https://github.com/raviriley/agency-jekyll-theme-starter
 [generate]: https://github.com/raviriley/agency-jekyll-theme-starter/generate
+=======
+# electrixel
+>>>>>>> 85e1727082a7f3e6ece7616838cf567ea5dbd3e1
