@@ -1,4 +1,4 @@
-name: pages-build-deployment
+name: Jekyll Build and Deploy
 
 on:
   push:
@@ -16,16 +16,15 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0
+          ruby-version: 3.0  # Ensure compatibility with your project
 
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
 
-      - name: Build site
-        run: |
-          bundle exec jekyll build
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
