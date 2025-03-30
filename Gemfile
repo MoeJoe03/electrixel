@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # Add Jekyll and the Agency theme gem
-gem "jekyll", "~> 3.10"
+gem "jekyll", "~> 4.3"
 gem "jekyll-agency", "~> 1.0.7"
 
 # Performance-booster for watching directories on Windows
